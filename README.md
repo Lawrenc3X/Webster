@@ -1,1 +1,3 @@
 # Webster
+
+Discord spelling rectifier
